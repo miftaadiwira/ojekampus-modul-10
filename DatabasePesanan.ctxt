@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=pesan
+comment0.target=boolean\ hapusPesanan(Pesanan)
+comment0.text=\ Method\ ini\ berfungsi\ untuk\ menghapus\ pesanan\ \r\n\ @return\ true,\ berfungsi\ mengembalikan\ nilai\ true\ pada\ method.\r\n
+comment1.params=pengguna
+comment1.target=boolean\ hapusPesanan(Pelanggan)
+comment1.text=\ Method\ ini\ berfungsi\ untuk\ menghapus\ pesanan\ \r\n\ @return\ true,\ berfungsi\ mengembalikan\ nilai\ true\ pada\ method.\r\n
+comment2.params=pengguna
+comment2.target=Pesanan\ getPesanan(Pelanggan)
+comment2.text=\ Method\ ini\ berfungsi\ untuk\ mengambil\ (get)\ pesanan\ \r\n\ @return\ listPesanan,\ berfungsi\ mengembalikan\ nilai\ ke\ listPesanan.\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getDatabase()
+comment4.params=pesan
+comment4.target=boolean\ addPesanan(Pesanan)
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TungguGUI()
+comment1.params=click
+comment1.target=void\ focusGained(java.awt.event.FocusEvent)
+comment2.params=click
+comment2.target=void\ focusLost(java.awt.event.FocusEvent)
+comment3.params=click
+comment3.target=void\ focusGained(java.awt.event.FocusEvent)
+comment4.params=click
+comment4.target=void\ focusLost(java.awt.event.FocusEvent)
+comment5.params=click
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=click
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=click
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=
+comment9.target=void\ run()
+numComments=10
